@@ -1,2 +1,6 @@
 # DDosTools
-***Educational Purpose Only**
+**Educational Purpose Only**
+
+**This tool is only for testing protection of websites !!**
+
+# How to Install
